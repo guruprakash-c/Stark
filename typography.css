@@ -1,0 +1,48 @@
+/*blockquote {
+    border-left: 0.3rem solid #d1d1d1;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 1rem 1.5rem;
+  }
+  
+  blockquote *:last-child {
+    margin-bottom: 0;
+  }
+  code {
+    background: #f4f5f6;
+    border-radius: .4rem;
+    font-size: 86%;
+    margin: 0 .2rem;
+    padding: .2rem .5rem;
+    white-space: nowrap;
+  }
+  
+  pre {
+    background: #f4f5f6;
+    border-left: 0.3rem solid #9b4dca;
+    overflow-y: hidden;
+  }
+  
+  pre > code {
+    border-radius: 0;
+    display: block;
+    padding: 1rem 1.5rem;
+    white-space: pre;
+  }
+  b,
+ strong {
+   font-weight: bold;
+ }
+ 
+ p {
+   margin-top: 0;
+ }*/
+ 
+ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 { font-weight: normal; letter-spacing: -0.02rem; margin-bottom: 1.8rem; margin-top: 0; }
+ h1,.h1 { font-size: 5.5rem; line-height: 2; }
+ h2,.h2 { font-size: 4.5rem; line-height: 1.5; }
+ h3,.h3 { font-size: 3.5rem; line-height: 1; }
+ h4,.h4 { font-size: 2.5rem; letter-spacing: -.09rem; line-height: 0.9; }
+ h5,.h5 { font-size: 2rem; letter-spacing: -.07rem; line-height: 0.8; }
+ h6,.h6 { font-size: 1.5rem; letter-spacing: 0; line-height: 0.7; }
+ 

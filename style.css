@@ -1,0 +1,35 @@
+@charset "UTF-8";
+:root{
+    --st-default-color: #000000;
+    --st-primary-color: #00aacc;
+    --st-font: sans-serif;
+    --st-font-size: 1em;
+}   
+ *,
+ *:after,
+ *:before {
+   box-sizing: inherit;
+ }
+ 
+ html {
+   box-sizing: border-box;
+   font-size: 62.5%;
+ }
+ 
+ body {
+   color: var(--st-default-color);
+   font-family: var(--st-font);
+   font-size: var(--st-font-size);
+ }
+ .stk-brand{
+   background: #f7f7f1;
+   padding: 0.25em;
+   font-family: inherit;
+   font-weight: 100;
+ }
+ .stk-heading{
+  font-weight: 900;
+}
+.stk-sub-heading{
+  font-variant: small-caps;
+}
